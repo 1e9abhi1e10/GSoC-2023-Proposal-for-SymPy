@@ -1,7 +1,7 @@
 
 ## Google Summer of Code 2023 
-### Organization: Sympy
-### Title: Improving Polynomial gcd
+#### Organization: Sympy
+#### Title: Improve Polynomial GCD
 #### Proposal link: https://drive.google.com/file/d/1Xlf72ABH68kb3BT8MISgH9MNIUej-lGo/view
 #### Abstract: 
 The project aims to add new algorithms for computing the greatest common divisor (GCD)
